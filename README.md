@@ -1,12 +1,5 @@
 # Draggable Image Strip
 
-A draggable image strip layout with a content preview powered by [Draggabilly](https://draggabilly.desandro.com/) and [TweenMax](https://greensock.com/tweenmax).
-
-![Draggable Image Strip](https://tympanus.net/codrops/wp-content/uploads/2019/06/DraggableImageStrip.jpg)
-
-[Article on Codrops](https://tympanus.net/codrops/?p=40863)
-
-[Demo](https://tympanus.net/Development/DraggableImageStrip/)
 
 ## Credits
 
